@@ -5,7 +5,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/akashakaryu)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/akashaka.ryu2/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:akashakaryu@gmail.com)](mailto:akashakaryu@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/akashakaryu/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/akashaka.ryu/)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-c14438?style=for-the-badge&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UC3QtykkY8PyWsHQFqn8YI0g)](https://www.youtube.com/channel/UC3QtykkY8PyWsHQFqn8YI0g)
 
 <!--
