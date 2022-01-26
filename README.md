@@ -13,7 +13,7 @@
 i like coding,i love mobile programming,very enthausiast to artificial intelegence,flutter, kotlin,and tech. i like  reading and watching anime and movies.
 Here are some ideas to get you started:
 -->
-harooo akashaka ryu desu, I'm a virtual youtuber who likes programming and want to share my activities and knowledge. I am interested in mobile and machine learning. and I also like to try new things in programming.
+harooo akashaka ryu desu, I'm a virtual youtuber who likes programming and want to share my activities and knowledge. I am interested in mobile and machine learning. and I also like to try new things in programming. let's be friend everyone.
 .
 
 
