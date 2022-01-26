@@ -24,7 +24,7 @@ harooo akashaka ryu desu, I'm a virtual youtuber who likes programming and want 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-  <img align="left" width="425" src="https://github-readme-stats.vercel.app/api?username=akashakaryu&count_private=true&show_icons=true&hide_border=false" /><img align="right" width="425" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashakaryu&count_private=true&hide=javascript,html,php&show_icons=true&hide_border=false" />
+  <img align="left" width="500" src="https://github-readme-stats.vercel.app/api?username=akashakaryu&count_private=true&show_icons=true&hide_border=false" /><img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashakaryu&count_private=true&hide=javascript,html,php&show_icons=true&hide_border=false" />
     <img align="center" src="https://activity-graph.herokuapp.com/graph?username=akashakaryu&theme=react-dark" />
 - ⚡ github trophy
  <img align="center" src="https://github-profile-trophy.vercel.app/?username=akashakaryu" />
